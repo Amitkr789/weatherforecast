@@ -1,0 +1,18 @@
+{
+  "name": "senddata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.1.2",
+    "mongoose": "^6.0.6",
+    "requests": "^0.3.0"
+  }
+}
